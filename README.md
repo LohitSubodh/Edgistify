@@ -5,3 +5,4 @@ Each project has a google colab link attached to it.
 2.Linear Regression
 3.Implementing MultiLayer Perceptron from Scratch
 4.Convolutional Neural Networks
+5.Support Vector Machines
